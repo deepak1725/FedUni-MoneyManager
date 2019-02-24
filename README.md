@@ -24,9 +24,13 @@ b) Login Functionality for Users isolation
 4. It Reads data from `123457.txt` with first 3 lines as: 
 `account number` , `pin` and `current balance` 
 
-### Screen 1
+#### Screen 1
 ![screen_1](https://raw.githubusercontent.com/deepak1725/FedUni-MoneyManager/master/screen1.png)
+
+#### Screen 2
 ![screen_2](https://raw.githubusercontent.com/deepak1725/FedUni-MoneyManager/master/screen2.png)
+
+#### Screen 3
 ![screen_3](https://raw.githubusercontent.com/deepak1725/FedUni-MoneyManager/master/screen3.png)
 
 
